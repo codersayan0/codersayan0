@@ -69,12 +69,11 @@
 
 ---
 
-🔹### 🐍 Contribution Snake Animation
+### 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codersayan0/snake.yml" alt="snake animation" />
+  <img src="https://github.com/codersayan0/codersayan0/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
-
 ---
 
 ### 📫 How to Reach Me
