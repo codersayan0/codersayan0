@@ -72,7 +72,7 @@
 🔹### 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codersayan0/codersayan0/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/codersayan0/snake.yml" alt="snake animation" />
 </p>
 
 ---
