@@ -5,6 +5,10 @@
 <h1 align="center">Hi 👋, I'm Sayan Mandal</h1>
 <h3 align="center">B.Tech CSE Student | Python & Web Developer | Tech Enthusiast</h3>
 
+🔹<p align="center">
+  🚀 Passionate Python & Web Developer | Focused on building clean, efficient code and solving real-world problems.
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codersayan0&label=Profile%20views&color=0e75b6&style=flat" alt="codersayan0" />
 </p>
@@ -64,14 +68,27 @@
 </p>
 
 ---
+
+🔹### 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codersayan0/codersayan0/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 ---
 
 ### 📫 How to Reach Me
 
 <p>
-  <a href="sayanmandal7212@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/codersayan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/codersayan0"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:sayanmandal7212@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/codersayan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/codersayan0">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
