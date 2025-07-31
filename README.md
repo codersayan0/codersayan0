@@ -5,10 +5,6 @@
 <h1 align="center">Hi 👋, I'm Sayan Mandal</h1>
 <h3 align="center">B.Tech CSE Student | Python & Web Developer | Tech Enthusiast</h3>
 
-🔹<p align="center">
-  🚀 Passionate Python & Web Developer | Focused on building clean, efficient code and solving real-world problems.
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codersayan0&label=Profile%20views&color=0e75b6&style=flat" alt="codersayan0" />
 </p>
@@ -69,14 +65,6 @@
 
 ---
 
-### 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://github.com/codersayan0/codersayan0/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
 ### 📫 How to Reach Me
 
 <p>
@@ -94,3 +82,4 @@
 ---
 
 > ✨ *“Every line of code is a step closer to building something impactful.”*
+
