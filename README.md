@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sayan Mandal</h1>
-<h3 align="center">B.Tech CSE Student | Python & Web Developer | Tech Enthusiast</h3>
+<h3 align="center">B.Tech CSE Student | Python, Java & Web Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codersayan0&label=Profile%20views&color=0e75b6&style=flat" alt="codersayan0" />
@@ -16,7 +16,7 @@
 - 🎓 I’m pursuing **B.Tech in Computer Science and Engineering** from  
   **Swami Vivekananda Institute of Science and Technology**
 - 💻 I enjoy solving real-world problems using code and developing fun apps
-- 🧠 I know **C**, **Python**, **HTML**, **CSS**, and **Data Structures**
+- 🧠 I know **C**, **Python**, **Java**, **HTML**, **CSS**, and **Data Structures**
 - 🚀 I love building small tools, utilities, games, and automations in my free time
 - 🌱 Currently exploring **JavaScript**, **GitHub Actions**, and open source
 
@@ -25,6 +25,7 @@
 ### 🔧 Languages & Tools
 
 <p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -82,4 +83,3 @@
 ---
 
 > ✨ *“Every line of code is a step closer to building something impactful.”*
-
