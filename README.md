@@ -90,16 +90,15 @@ Python-based voice assistant automation system.
 
 ---
 
-## 📊 GitHub Analytics
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codersayan0&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://stats-github-readme.vercel.app/api?username=codersayan0&show_icons=true&theme=radical&hide_border=true" height="170"/>
   <img src="https://streak-stats.demolab.com?user=codersayan0&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersayan0&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=codersayan0&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
