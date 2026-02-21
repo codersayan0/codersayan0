@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codersayan0/codersayan0/main/banner.png" alt="Sayan Mandal Banner" />
+  <img src="https://raw.githubusercontent.com/codersayan0/codersayan0/main/banner.png" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%7C+Java+%7C+DevOps;Building+Real+World+Projects;Open+Source+Learner" />
