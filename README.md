@@ -3,30 +3,41 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sayan Mandal</h1>
-<h3 align="center">🚀 B.Tech CSE Student | Full-Stack Developer | DevOps Explorer | Problem Solver</h3>
+<h3 align="center">
+🚀 B.Tech CSE Student | Full Stack Developer | DevOps Engineer in Progress
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codersayan0&label=Profile%20views&color=blueviolet&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=codersayan0&label=Profile%20Views&color=blueviolet&style=flat" />
   <img src="https://img.shields.io/github/followers/codersayan0?label=Followers&style=flat&color=brightgreen" />
   <img src="https://img.shields.io/github/stars/codersayan0?label=Stars&style=flat&color=yellow" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Professional Summary
 
-🎓 B.Tech CSE Student  
-💡 Passionate about building real-world solutions  
-💻 Strong in Python, Java & Web Development  
-⚙️ Exploring DevOps, Automation & Cloud  
-📚 Currently learning JavaScript, GitHub Actions & CI/CD  
-🎯 Goal: Become a Full Stack + DevOps Engineer  
+🎓 B.Tech in Computer Science & Engineering  
+💻 Passionate about building scalable, real-world software systems  
+⚙️ DevOps enthusiast focused on automation, CI/CD & cloud infrastructure  
+🚀 Building production-ready applications using modern tools  
+🎯 Career Goal: Full Stack + DevOps Engineer  
 
 ---
 
-## 🛠️ Tech Stack
+## 📚 Core Computer Science Knowledge
 
-### 💻 Programming Languages
+✔️ Object Oriented Programming (OOPS)  
+✔️ Operating Systems  
+✔️ Computer Networks  
+✔️ Data Structures & Algorithms  
+✔️ DBMS  
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
@@ -36,29 +47,45 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
-### ⚙️ Tools & Technologies
+### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,git,github,linux" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Professional Projects
+
+### 🔹 ATS Resume Checker
+🔗 https://github.com/codersayan0/ATS-Resume-Checker  
+AI-powered resume analyzer that checks ATS compatibility and improves job application success.
+
+---
+
+### 🔹 Crop Advisory System
+🔗 https://github.com/codersayan0/Crop-Advisory-System  
+Machine Learning-based system recommending optimal crops based on soil and weather conditions.
+
+---
+
+### 🔹 Video-Audio DevOps Pipeline
+🔗 https://github.com/codersayan0/video-audio-devops  
+CI/CD automated pipeline for processing and deploying video/audio applications using Docker & cloud services.
+
+---
 
 ### 🔹 Whatsapp Clone
-Real-time chat UI inspired by WhatsApp  
+Real-time chat interface inspired by WhatsApp UI.
 
-### 🔹 Jarvis - Virtual Assistant
-Python-based voice assistant  
+---
 
-### 🔹 Weather Application
-Live weather info using API  
-
-### 🔹 News API Project
-Fetch and display real-time news  
-
-👉 Explore all projects here:  
-🔗 https://github.com/codersayan0?tab=repositories  
+### 🔹 Jarvis Virtual Assistant
+Python-based voice assistant automation system.
 
 ---
 
@@ -74,12 +101,23 @@ Fetch and display real-time news
 
 ---
 
-## 🏆 Achievements & Goals
+## 🏆 Professional Focus
 
-✔️ Built 10+ Practical Projects  
-✔️ Active GitHub Contributor  
-🎯 Learning DevOps & Cloud Deployment  
-🚀 Working towards Open Source Contributions  
+🔹 Backend & Full Stack Development  
+🔹 Cloud Deployment (AWS)  
+🔹 Infrastructure as Code (Terraform)  
+🔹 Containerization & Orchestration (Docker + Kubernetes)  
+🔹 CI/CD Automation  
+
+---
+
+## 💼 Open To Opportunities
+
+🔎 Internship Roles In:
+- Software Development
+- DevOps Engineering
+- Cloud Engineering
+- Backend Development
 
 ---
 
@@ -99,4 +137,6 @@ Fetch and display real-time news
 
 ---
 
-<h3 align="center">🔥 “Code. Build. Deploy. Repeat.” 🔥</h3>
+<h3 align="center">
+🔥 "Build • Automate • Scale • Deploy" 🔥
+</h3>
