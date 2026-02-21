@@ -1,16 +1,17 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codersayan0/codersayan0/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/codersayan0/codersayan0/main/banner.png" alt="Sayan Mandal Banner"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Sayan Mandal</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;DevOps+Engineer+in+Progress;AWS+%7C+Kubernetes+%7C+Terraform;Building+Scalable+Systems;Open+to+Internship+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Python+Developer;AI+%2F+ML+Engineer;DevOps+Engineer;Building+Scalable+Cloud+and+Intelligent+Systems" />
 </p>
+
 <h3 align="center">
-🚀 B.Tech CSE Student | Full Stack Developer | DevOps Engineer in Progress
+🚀 B.Tech CSE Student | Software Engineer | AI/ML & DevOps Enthusiast
 </h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%7C+Java+%7C+DevOps;Building+Real+World+Projects;Open+Source+Learner" />
-</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codersayan0&label=Profile%20Views&color=blueviolet&style=flat" />
   <img src="https://img.shields.io/github/followers/codersayan0?label=Followers&style=flat&color=brightgreen" />
