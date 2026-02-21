@@ -3,70 +3,87 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sayan Mandal</h1>
-<h3 align="center">B.Tech CSE Student | Python, Java & Web Developer | Tech Enthusiast</h3>
+<h3 align="center">🚀 B.Tech CSE Student | Full-Stack Developer | DevOps Explorer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codersayan0&label=Profile%20views&color=0e75b6&style=flat" alt="codersayan0" />
+  <img src="https://komarev.com/ghpvc/?username=codersayan0&label=Profile%20views&color=blueviolet&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/codersayan0?label=Followers&style=flat&color=brightgreen" />
+  <img src="https://img.shields.io/github/stars/codersayan0?label=Stars&style=flat&color=yellow" />
 </p>
 
 ---
 
-### 👨‍🎓 About Me
+## 🧠 About Me
 
-- 🎓 I’m pursuing **B.Tech in Computer Science and Engineering** from  
-  **Swami Vivekananda Institute of Science and Technology**
-- 💻 I enjoy solving real-world problems using code and developing fun apps
-- 🧠 I know **C**, **Python**, **Java**, **HTML**, **CSS**, and **Data Structures**
-- 🚀 I love building small tools, utilities, games, and automations in my free time
-- 🌱 Currently exploring **JavaScript**, **GitHub Actions**, and open source
+🎓 B.Tech CSE Student  
+💡 Passionate about building real-world solutions  
+💻 Strong in Python, Java & Web Development  
+⚙️ Exploring DevOps, Automation & Cloud  
+📚 Currently learning JavaScript, GitHub Actions & CI/CD  
+🎯 Goal: Become a Full Stack + DevOps Engineer  
 
 ---
 
-### 🔧 Languages & Tools
+## 🛠️ Tech Stack
 
+### 💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Structures-FFA500?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
 
 ---
 
-### 🚀 My Top Projects
+## 🚀 Featured Projects
 
-| Name | Description |
-|------|-------------|
-| [Whatsapp-Clone](https://github.com/codersayan0/Whatsapp-Clone) | Real-time chat interface mimicking WhatsApp UI |
-| [News-API](https://github.com/codersayan0/News-API) | Fetch and display live news from an API |
-| [Chat-Application](https://github.com/codersayan0/Chat-Application) | Simple real-time chat app using sockets |
-| [Weather-Application](https://github.com/codersayan0/Weather-Application) | Shows real-time weather info based on location |
-| [QR-Code-Generater](https://github.com/codersayan0/QR-Code-Generater) | Generate QR codes for URLs or text |
-| [Jarvis](https://github.com/codersayan0/Jarvis) | Virtual assistant built with Python |
-| [pdf-encryptor](https://github.com/codersayan0/pdf-encryptor) | Add password protection to PDF files |
-| [Bill-App](https://github.com/codersayan0/Bill-App) | Python-based billing system with item categories |
-| [Snake_game](https://github.com/codersayan0/Snake_game) | Classic Snake game using Python |
-| [Tic-Tac-Toe-game](https://github.com/codersayan0/TIc-Tac-Toe-game) | Classic Tic-Tac-Toe with a simple UI |
+### 🔹 Whatsapp Clone
+Real-time chat UI inspired by WhatsApp  
 
-🧩 **Explore more** of my work under [@codersayan0](https://github.com/codersayan0?tab=repositories)
+### 🔹 Jarvis - Virtual Assistant
+Python-based voice assistant  
+
+### 🔹 Weather Application
+Live weather info using API  
+
+### 🔹 News API Project
+Fetch and display real-time news  
+
+👉 Explore all projects here:  
+🔗 https://github.com/codersayan0?tab=repositories  
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codersayan0&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codersayan0&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codersayan0&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codersayan0&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersayan0&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersayan0&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 📫 How to Reach Me
+## 🏆 Achievements & Goals
+
+✔️ Built 10+ Practical Projects  
+✔️ Active GitHub Contributor  
+🎯 Learning DevOps & Cloud Deployment  
+🚀 Working towards Open Source Contributions  
+
+---
+
+## 🤝 Connect With Me
 
 <p>
   <a href="mailto:sayanmandal7212@gmail.com">
@@ -82,4 +99,4 @@
 
 ---
 
-> ✨ *“Every line of code is a step closer to building something impactful.”*
+<h3 align="center">🔥 “Code. Build. Deploy. Repeat.” 🔥</h3>
