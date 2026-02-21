@@ -141,3 +141,11 @@ Python-based voice assistant automation system.
 <h3 align="center">
 🔥 "Build • Automate • Scale • Deploy" 🔥
 </h3>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codersayan0/codersayan0/output/github-contribution-grid-snake-dark.svg" />
+</p>
