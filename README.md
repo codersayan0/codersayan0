@@ -49,7 +49,7 @@
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### ☁️ DevOps & Cloud
@@ -62,19 +62,16 @@
 ## 🚀 Featured Professional Projects
 
 ### 🔹 ATS Resume Checker
-🔗 https://github.com/codersayan0/ATS-Resume-Checker  
 AI-powered resume analyzer that checks ATS compatibility and improves job application success.
 
 ---
 
-### 🔹 Crop Advisory System
-🔗 https://github.com/codersayan0/Crop-Advisory-System  
+### 🔹 Crop Advisory Syste  
 Machine Learning-based system recommending optimal crops based on soil and weather conditions.
 
 ---
 
-### 🔹 Video-Audio DevOps Pipeline
-🔗 https://github.com/codersayan0/video-audio-devops  
+### 🔹 Video-Audio DevOps Pipeline 
 CI/CD automated pipeline for processing and deploying video/audio applications using Docker & cloud services.
 
 ---
