@@ -1,14 +1,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/codersayan0/codersayan0/main/banner.png" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%7C+Java+%7C+DevOps;Building+Real+World+Projects;Open+Source+Learner" />
-</p>
 <h1 align="center">Hi 👋, I'm Sayan Mandal</h1>
 <h3 align="center">
 🚀 B.Tech CSE Student | Full Stack Developer | DevOps Engineer in Progress
 </h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%7C+Java+%7C+DevOps;Building+Real+World+Projects;Open+Source+Learner" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codersayan0&label=Profile%20Views&color=blueviolet&style=flat" />
   <img src="https://img.shields.io/github/followers/codersayan0?label=Followers&style=flat&color=brightgreen" />
