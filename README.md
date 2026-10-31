@@ -1,54 +1,56 @@
-<div align="center">
-
 <img src="./banner.svg" width="100%" alt="Sayan Mandal – AI/ML, Python Full-Stack, Java and Web Developer"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Python+%7C+AI+%26+ML+%7C+Java+%7C+Full-Stack+Developer;Building+intelligent+apps+with+real-world+impact;Shipping+live+products%2C+not+just+tutorials;Learn+by+building.+Improve+with+every+iteration." alt="Animated introduction"/>
-</a>
-
-<br/>
-
-<p>
-<a href="https://codersayan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-codersayan.vercel.app-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/codersayan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sayanmandal7212@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-BE123C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/codersayan0"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&center=true&vCenter=true&size=28&pause=900&duration=2800&color=22D3EE&width=760&height=58&lines=Hello+pals!;I'm+Sayan+Mandal;I'm+a+Python+Full-Stack+Developer;I'm+an+AI+%26+ML+Developer;I'm+a+Java+%26+Web+Developer;Let's+build+something+great..." alt="Typing introduction"/>
+  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=codersayan0&label=PROFILE+VIEWS&color=0891b2&style=flat-square" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/codersayan0?label=FOLLOWERS&style=flat-square&color=0891b2" alt="GitHub followers"/>
-<img src="https://img.shields.io/badge/Open_to-Internships_%26_Collaboration-22D3EE?style=flat-square" alt="Open to work"/>
+<div align="center">
+
+<a id="lets-connect"></a>
+
+## 🤝 Let's Connect
+
+<p><i>I'm always excited to collaborate on impactful projects, discuss ideas, or just have a tech chat.</i></p>
+
+<a href="https://codersayan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/codersayan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sayanmandal7212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/codersayan0" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
----
+<img src="./divider.svg" width="100%" alt=""/>
 
-## 👨‍💻 About me
+<a id="who-am-i"></a>
 
-```python
-class SayanMandal:
-    role = "B.Tech CSE Student | 2023–2027"
-    roles = [
-        "AI & Machine Learning Developer",
-        "Python Full-Stack Developer",
-        "Java Developer",
-        "Web Developer",
-    ]
-    currently_building = ["MediMitra", "AgroPulse", "SmartRoom"]
-    philosophy = "Learn by building. Ship it. Improve with every iteration."
-```
+## 🧑‍💻 Who am I?
 
-I'm a Computer Science student who turns ideas into useful, intelligent, **deployed** applications. I work across the stack: machine learning models, Python APIs, Java, and modern React front ends, with a focus on how AI can solve practical problems in healthcare, agriculture and education.
+<h3 align="center">✨ My interests:</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=26&center=true&vCenter=true&width=520&duration=1500&pause=1000&color=22D3EE&lines=Artificial+Intelligence;Machine+Learning;Python+Full-Stack+Development;Java+%26+Web+Development" width="auto" height="35" alt="Interests"/>
+</p>
 
-- 🔭 Building **MediMitra**, an AI-assisted multilingual healthcare platform.
-- 🌱 Shipping **AgroPulse** and **SmartRoom**, ML-driven tools for farming and smart classrooms.
-- 🧠 Exploring **Generative AI, RAG, NLP and applied machine learning**.
-- 🛠️ Building end-to-end products with **Python, FastAPI, React, Java and MongoDB**.
-- 🤝 Open to **internships, collaborations and open-source contributions**.
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
----
+> *Turning ideas into intelligent, deployed products — from ML models and Python APIs to polished React interfaces and live launches.*
 
-## 🚀 Live projects
+- 🎓 **B.Tech CSE student** (2023 – 2027)
+- 🔭 Building **MediMitra**, **AgroPulse** and **SmartRoom**
+- 🧠 Exploring **Generative AI, RAG, NLP and applied ML**
+- 💬 Ask me about **Python, Java, FastAPI, React & ML**
+- 💼 Python intern at **Cognifyz Technologies** and **BroskiesHub**
+- 📫 Reach me at **sayanmandal7212@gmail.com**
+- 🤝 Open for **internships, collaborations and open source**
+
+<br clear="right"/>
+
+<img src="./divider.svg" width="100%" alt=""/>
+
+<a id="live-projects"></a>
+
+## 🚀 Live Projects
 
 <div align="center">
 
@@ -61,75 +63,12 @@ I'm a Computer Science student who turns ideas into useful, intelligent, **deplo
 
 </div>
 
----
-
-## ⭐ Featured work
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 MediMitra
-**AI-assisted healthcare platform**
-
-- Patient and doctor workflows
-- AI interview and report summarisation
-- English, Bengali and Hindi support
-- React, FastAPI, MongoDB, Gemini
-
-[🌐 Live demo](https://medimitra-codersayan.vercel.app/) · [📦 Repository](https://github.com/codersayan0/MediMitra)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 AgroPulse
-**Smart agriculture assistant**
-
-- Crop and fertilizer recommendations
-- Weather and market-price integration
-- Plant disease analysis
-- FastAPI and ML models
-
-[🌐 Live demo](https://agropulse-codersayan.vercel.app/) · [📦 Repository](https://github.com/codersayan0/AgroPulse)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏫 SmartRoom
-**Smart classroom experience**
-
-- Modern, responsive classroom interface
-- Built for learning and engagement
-- Deployed on Vercel
-
-[🌐 Live demo](https://smart-classroom-sayan.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 MediaDrop DevOps
-**Containerised media utility**
-
-- FastAPI media-processing tools
-- Docker development environment
-- GitHub Actions automation
-- Deployed on Render
-
-[🌐 Live demo](https://video-audio-devops.onrender.com/) · [📦 Repository](https://github.com/codersayan0/video-audio-devops)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🩺 MediAssist AI
-**Medical decision-support prototype**
-
-- Symptom-based prediction workflow
-- Medical report analysis
-- Python backend with trained ML models
+Symptom-based prediction and medical report analysis with a Python backend and trained ML models.
 
 [📦 Repository](https://github.com/codersayan0/MediAssist-AI)
 
@@ -137,11 +76,7 @@ I'm a Computer Science student who turns ideas into useful, intelligent, **deplo
 <td width="50%" valign="top">
 
 ### 📄 ATS Resume Checker
-**NLP-powered resume matcher**
-
-- Extracts skills from resumes
-- Compares them with job descriptions
-- Semantic similarity matching
+NLP-powered resume matcher that extracts skills and compares them with job descriptions using semantic similarity.
 
 [📦 Repository](https://github.com/codersayan0/ATS-Resume-Checker)
 
@@ -151,7 +86,7 @@ I'm a Computer Science student who turns ideas into useful, intelligent, **deplo
 <td colspan="2" valign="top">
 
 ### 🤖 Sayan's Chatbot
-**Multimodal AI assistant** with a conversational interface, voice input and response, and image understanding, built with Python, Gemini API and Gradio.
+Multimodal AI assistant with a conversational interface, voice input and response, and image understanding, built with Python, Gemini API and Gradio.
 
 [📦 Repository](https://github.com/codersayan0/Sayan-Chatbot)
 
@@ -161,45 +96,88 @@ I'm a Computer Science student who turns ideas into useful, intelligent, **deplo
 
 <p align="center"><a href="https://github.com/codersayan0?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Projects-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/></a></p>
 
----
-
-## 🧰 Tech stack
+<img src="./divider.svg" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react&perline=7" alt="Languages and frontend"/><br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,tensorflow,pytorch,opencv,mongodb,mysql&perline=7" alt="Backend, AI and databases"/><br/>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,linux,git,github,vscode&perline=7" alt="Tools and infrastructure"/>
+
+<a id="tech-stack--tools"></a>
+
+## 💻 Tech Stack & Tools
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎨 Frontend Development
+<br/>
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind&theme=dark&perline=5" alt="Frontend"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+</td>
+<td align="center" width="50%">
+
+### ⚙️ Backend Development
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,fastapi,flask&theme=dark&perline=5" alt="Backend"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🗄️ Database & Cloud
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,vercel&theme=dark&perline=4" alt="Database and cloud"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+
+</td>
+<td align="center" width="50%">
+
+### 🧰 Tools & DevOps
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode&theme=dark&perline=6" alt="Tools"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+
+</td>
+</tr>
+</table>
+
+### 🧠 AI/ML Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
+
 </div>
 
-<br/>
+<img src="./divider.svg" width="100%" alt=""/>
 
-| Focus | Tools & Technologies |
-|:--|:--|
-| **Languages** | Python, Java, C, JavaScript, HTML, CSS |
-| **AI / ML** | TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, Hugging Face |
-| **Generative AI** | Gemini API, LangChain, RAG, Transformers |
-| **Full-Stack** | React, FastAPI, Flask, REST APIs |
-| **Data** | NumPy, Pandas, Matplotlib, Seaborn |
-| **Databases** | MongoDB, MySQL |
-| **DevOps & Tools** | Docker, GitHub Actions, Git, GitHub, VS Code, Google Colab |
-| **Deployment** | Vercel, Render |
-
----
-
-## 🧭 How I build
-
-```mermaid
-flowchart LR
-    A[💡 Idea] --> B[📊 Data and Research]
-    B --> C[🧠 ML / AI Model]
-    C --> D[⚙️ Python / Java API]
-    D --> E[🎨 React Front End]
-    E --> F[🐳 Docker and CI]
-    F --> G[🚀 Live Deployment]
-    G -.feedback.-> A
-```
-
----
+<a id="experience"></a>
 
 ## 💼 Experience
 
@@ -208,47 +186,62 @@ flowchart LR
 | Aug – Sep 2025 | Python Development Intern | Cognifyz Technologies |
 | Aug – Sep 2025 | Python Intern | BroskiesHub |
 
----
-
-## 📈 GitHub activity
+<img src="./divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=codersayan0&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub contribution streak" width="70%"/>
+<a id="github-analytics"></a>
 
-<br/><br/>
+## 📊 GitHub Analytics
 
-<a href="https://github.com/codersayan0?tab=repositories"><img src="https://img.shields.io/github/followers/codersayan0?style=for-the-badge&logo=github&label=Followers&color=0891B2&labelColor=0D1117" alt="Followers"/></a>
-<a href="https://github.com/codersayan0?tab=repositories"><img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Focus"/></a>
-<a href="https://github.com/codersayan0?tab=repositories"><img src="https://img.shields.io/badge/Stack-Python%20%7C%20Java%20%7C%20React-0E7490?style=for-the-badge&labelColor=0D1117" alt="Stack"/></a>
+<p>
+  <a href="https://github.com/codersayan0">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codersayan0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/codersayan0">
+    <img width="49%" src="https://streak-stats.demolab.com?user=codersayan0&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=c9d1d9&dates=586069" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p>
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codersayan0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
+  <img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codersayan0&theme=tokyonight" alt="Profile Summary"/>
+</p>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=codersayan0&bg_color=0d1117&color=22d3ee&line=0891b2&point=FFFFFF&area=true&area_color=0891b2&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 
 </div>
 
----
-
-## 🐍 Contribution garden
+<img src="./divider.svg" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/codersayan0/codersayan0/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=codersayan0&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/codersayan0?style=for-the-badge&color=22d3ee&labelColor=0a0a0a&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/codersayan0?style=for-the-badge&color=0e7490&labelColor=0a0a0a&label=TOTAL+STARS" alt="Stars"/>
+</p>
 </div>
-
----
-
-## 📬 Let's connect
 
 <div align="center">
 
-I'm looking for **internships and collaborations** in AI/ML, Python and full-stack development.
+<a id="contribution-snake"></a>
 
-<a href="https://codersayan.vercel.app/">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/codersayan/">LinkedIn</a> ·
-<a href="mailto:sayanmandal7212@gmail.com">Email</a> ·
-<a href="https://github.com/codersayan0">GitHub</a>
+## 🐍 Contribution Snake
 
-<br/><br/>
-
-**Build with curiosity. Turn ideas into intelligent experiences.**
-
-<img src="./footer.svg" width="100%" alt="Footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codersayan0/codersayan0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codersayan0/codersayan0/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/codersayan0/codersayan0/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
+
+# :fountain_pen: Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+> [!TIP]
+> Liked something here? Drop a :star: on the repositories. It really helps!
+
+<img src="./welcome.svg" height="30" width="100%" alt="Thanks for visiting my profile, see you next time!"/>
+<img src="./divider.svg" width="100%" alt=""/>
