@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111f,45:102a43,100:00b4d8&text=SAYAN%20MANDAL&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20%26%20ML%20%E2%80%A2%20BACKEND%20ENGINEERING%20%E2%80%A2%20CYBERSECURITY&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Sayan Mandal profile banner"/>
+<img src="./banner.png" width="100%" alt="Sayan Mandal - AI, ML and Full-Stack Developer" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=B.Tech+CSE+Student+%7C+Class+of+2027;Building+useful+AI-powered+products;Exploring+Cybersecurity+%26+Cloud+Native+Systems;Turning+ideas+into+working+software" alt="Typing introduction"/>
