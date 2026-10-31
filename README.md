@@ -196,19 +196,18 @@ Multimodal AI assistant with a conversational interface, voice input and respons
 
 <p>
   <a href="https://github.com/codersayan0">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codersayan0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
+    <img width="49%" src="https://streak-stats.demolab.com?user=codersayan0&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=c9d1d9&dates=586069" alt="GitHub Streak"/>
   </a>
   <a href="https://github.com/codersayan0">
-    <img width="49%" src="https://streak-stats.demolab.com?user=codersayan0&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=c9d1d9&dates=586069" alt="GitHub Streak"/>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codersayan0&theme=tokyonight" alt="Profile Summary"/>
   </a>
 </p>
 
 <p>
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codersayan0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
-  <img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codersayan0&theme=tokyonight" alt="Profile Summary"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codersayan0&theme=tokyonight" alt="Repos per Language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codersayan0&theme=tokyonight" alt="Most Commit Language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codersayan0&theme=tokyonight" alt="GitHub Stats"/>
 </p>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=codersayan0&bg_color=0d1117&color=22d3ee&line=0891b2&point=FFFFFF&area=true&area_color=0891b2&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 
 </div>
 
